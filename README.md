@@ -3,6 +3,15 @@ What's Up (A Google Assistant APP)
 # Start with official "startup"
 https://developers.google.com/actions/dialogflow/first-app
 
+# Deploy to Google Assistant
+
+Still work in progress... ...
+
+- Target
+    - AIY [Voice Kit](https://aiyprojects.withgoogle.com/voice/)
+    - Google Home
+    - Android with Google Assistant App.
+
 # Deploy cloud function on [Firebase](https://www.firebase.com)
 
 - ```npm install -g firebase-tools```
