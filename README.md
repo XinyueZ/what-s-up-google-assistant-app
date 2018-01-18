@@ -47,3 +47,7 @@ An Action has a group of parmeters which might have ```PARAMETER NAME```  ```geo
 
 We can use not only Google's   ```ENTITY```, but also define our own ones.
 Like [app_exit](https://developers.google.com/actions/assistant/app-exits). In this repo I use this.
+
+# License
+
+[MIT](https://github.com/XinyueZ/what-s-up-google-assistant-app/blob/master/LICENSE)
